@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/mosihe/subpo.git
 	branch = master
-	commit = 490819466937bc6cd564e0d96f9ac2121178ec58
-	parent = bcf82c89dd50bc55cdd0ca222dec69bbf1577883
+	commit = f92c88ce3de4fcf22d1ca64d6bc021b850cd2608
+	parent = 82d2dd8f5a11a282db0510837cb60955c46d49f5
 	method = merge
 	cmdver = 0.4.0

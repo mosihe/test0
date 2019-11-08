@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/mosihe/subpo.git
+	branch = master
+	commit = 490819466937bc6cd564e0d96f9ac2121178ec58
+	parent = bcf82c89dd50bc55cdd0ca222dec69bbf1577883
+	method = merge
+	cmdver = 0.4.0
